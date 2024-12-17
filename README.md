@@ -2,4 +2,4 @@
 Journey to My Custom Coder Model" or "Custom Coder Fine-tuning Path
 
 Plan
- - qwen2.5 32B Coder -> llamafied -> QDora + DPO -> GPTQ INT4 Quantization
+ - qwen2.5 32B Coder -> llamafied -> QDora(Orpo, Heremes) -> GPTQ INT4 Quantization
